@@ -6,3 +6,4 @@ Un nettoyage et une analyse de données ont été menées. Ensuite, j'ai effectu
 
 Pour chaque nombre de centroïdes choisi, un radar a été traçé pour déterminer si des clients-types ressortent ou non de la segmentation choisie.
 
+La dernière étape a consisté à déterminer la fréquence à laquelle il est nécessaire de faire une maintenance de la segmentation. Pour cela, le score ARI a été choisi comme métrique et j'ai déterminé l'évolution du score ARI avec le temps.
